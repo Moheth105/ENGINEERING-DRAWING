@@ -6,11 +6,17 @@ A project developed as part of the Engineering Practices Laboratory – Carpentr
 ## Project Information
 
 Student: Moheth R
+
 Register Number: 212223060167
+
 Department: Electronics and Communication Engineering
+
 Degree: Bachelor of Engineering
+
 College: Saveetha Engineering College, Chennai
+
 University: Anna University, Chennai
+
 Year: 2026
 
 ## Abstract
